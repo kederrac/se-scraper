@@ -22,7 +22,7 @@
   "license": "ISC",
   "directories":{
         "lib": "lib"
-  }
+  },
   "dependencies": {
     "chai": "^4.2.0",
     "cheerio": "^1.0.0-rc.2",
