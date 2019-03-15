@@ -21,7 +21,7 @@
   },
   "license": "ISC",
   "directories":{
-        "lib": "lib"
+        "src": "src"
   },
   "dependencies": {
     "chai": "^4.2.0",
